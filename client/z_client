@@ -1,0 +1,12 @@
+*Cart:
+    - Remove item
+    - incread and down quality of item.
+*Login:
+    - After login -> replace register,login to Image
+        - Img: add logout.
+
+(?:
+    - packege: style -> how it work
+    - Redux: actual I don't know when I should use for what is problem
+    - State: i can't manage state in reactjs
+        - When have action -> state change but where is save state ->???

@@ -1,0 +1,16 @@
+hhre:
+API: test function
+connect FE and BE -> build admin.
+
+
+API:
+  - build before API -> add JWT
+  - 
+! diffcult in hhre is JWT -> know structure and how it work
+
+
+CLIENT:
+   - before design UI -> add states -> add redux 
+    # research element in Redux -> role each element in redux
+   - and connect FE with BE
+
